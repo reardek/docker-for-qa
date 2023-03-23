@@ -1,15 +1,18 @@
 {
   "name": "docker-for-qa",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-  },
+  "description": "Docker for QA",
+  "private": true,
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reardek/docker-for-qa.git"
   },
+  "workspaces": ["frontend", "backend", "cypress"],
   "keywords": [],
   "author": "Jędrzej Kowaliński",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
 }

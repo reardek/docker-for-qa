@@ -1,3 +1,4 @@
 {
-  "cSpell.language": "en,pl"
+  "cSpell.language": "en,pl",
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
