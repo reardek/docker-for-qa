@@ -1,0 +1,15 @@
+{
+  "name": "docker-for-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reardek/docker-for-qa.git"
+  },
+  "keywords": [],
+  "author": "Jędrzej Kowaliński",
+  "license": "MIT"
+}
