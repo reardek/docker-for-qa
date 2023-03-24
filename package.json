@@ -11,8 +11,5 @@
   "workspaces": ["frontend", "backend", "cypress"],
   "keywords": [],
   "author": "Jędrzej Kowaliński",
-  "license": "MIT",
-  "devDependencies": {
-    "typescript": "^5.0.2"
-  }
+  "license": "MIT"
 }
